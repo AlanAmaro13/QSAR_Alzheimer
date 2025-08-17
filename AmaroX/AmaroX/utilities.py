@@ -22,7 +22,7 @@ async def send_sms_to_me(sms: str) -> None:
     Args
         sms (str): Refers to the message to be send 
    '''
-    BOT_TOKEN ='7270502405:AAGWie46LzdzcQSTGfeAsobnF4Qzc-IivR0'
-    CHAT_ID = 1222397907
+    BOT_TOKEN =
+    CHAT_ID = 
     bot = Bot(token = BOT_TOKEN)
     await bot.send_message(chat_id=CHAT_ID, text = sms)
