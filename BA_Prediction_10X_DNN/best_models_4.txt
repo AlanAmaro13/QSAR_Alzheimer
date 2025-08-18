@@ -1,0 +1,94 @@
+Results summary
+Results in ../models/DNN_MI_10_4/DNN1-MI-KT
+Showing 10 best trials
+Objective(name="val_r2_score", direction="max")
+
+Trial 05 summary
+Hyperparameters:
+Nodes-1: 101
+Nodes-2: 351
+Nodes-3: 351
+Nodes-4: 151
+optimizer: adam
+Score: 0.5159933269023895
+
+Trial 08 summary
+Hyperparameters:
+Nodes-1: 101
+Nodes-2: 451
+Nodes-3: 151
+Nodes-4: 151
+optimizer: adam
+Score: 0.49345484375953674
+
+Trial 02 summary
+Hyperparameters:
+Nodes-1: 101
+Nodes-2: 251
+Nodes-3: 201
+Nodes-4: 301
+optimizer: adam
+Score: 0.49304094910621643
+
+Trial 00 summary
+Hyperparameters:
+Nodes-1: 201
+Nodes-2: 401
+Nodes-3: 51
+Nodes-4: 301
+optimizer: adam
+Score: 0.4807731807231903
+
+Trial 07 summary
+Hyperparameters:
+Nodes-1: 451
+Nodes-2: 51
+Nodes-3: 251
+Nodes-4: 201
+optimizer: adam
+Score: 0.4795790910720825
+
+Trial 06 summary
+Hyperparameters:
+Nodes-1: 401
+Nodes-2: 201
+Nodes-3: 1
+Nodes-4: 451
+optimizer: adam
+Score: 0.3869312107563019
+
+Trial 03 summary
+Hyperparameters:
+Nodes-1: 151
+Nodes-2: 51
+Nodes-3: 251
+Nodes-4: 1
+optimizer: adam
+Score: 0.25630030035972595
+
+Trial 09 summary
+Hyperparameters:
+Nodes-1: 201
+Nodes-2: 1
+Nodes-3: 351
+Nodes-4: 151
+optimizer: adam
+Score: 0.1964867115020752
+
+Trial 01 summary
+Hyperparameters:
+Nodes-1: 1
+Nodes-2: 401
+Nodes-3: 351
+Nodes-4: 451
+optimizer: adam
+Score: 0.1640717089176178
+
+Trial 04 summary
+Hyperparameters:
+Nodes-1: 1
+Nodes-2: 1
+Nodes-3: 51
+Nodes-4: 101
+optimizer: adam
+Score: 0.03967738151550293
