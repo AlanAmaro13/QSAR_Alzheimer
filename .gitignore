@@ -2,5 +2,6 @@
 models/
 BA_Prediction_20X_DNN/
 */AmaroX/
+*/.ipynb_checkpoints/*
 # Ignore files
 
